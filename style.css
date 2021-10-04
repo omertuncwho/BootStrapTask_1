@@ -1,0 +1,47 @@
+body{
+    background-color: #E9ECEF;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+  a:active {
+    color: yellow;
+  } 
+
+div.card {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-right: auto;
+    margin-left:auto;
+    margin-top:auto;
+  }
+  .header{
+      
+      background-color: rgb(153, 153, 153);
+      margin: 5px;
+      padding: 5px;
+      border-radius: 10px;
+  }
+  h3{
+      color:dodgerblue;
+  }
+  .navbar-brand{
+    background-color: rgb(153, 153, 153);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+  }
