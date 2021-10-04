@@ -45,3 +45,7 @@ div.card {
     padding: 5px;
     border-radius: 10px;
   }
+  h2{
+      color:rgb(98, 150, 199);
+      text-align: center;
+  }
